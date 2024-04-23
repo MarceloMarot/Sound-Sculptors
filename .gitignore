@@ -2,3 +2,7 @@
 *.fft
 viejos
 mas del oc2
+
+*.log
+*.plt
+*.txt

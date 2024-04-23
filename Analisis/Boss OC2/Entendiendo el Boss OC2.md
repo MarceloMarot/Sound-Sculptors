@@ -1,4 +1,4 @@
-
+....................................................................
 # Entendiendo el Boss OC-2 Octave
 
 
@@ -345,7 +345,7 @@ Debajo de este nivel los flip-flops dejan de conmutar. Por ejemplo, usando el TL
 
 - $Q8 \rightarrow ON$ (*modo inversor*)
 
-    $A_{comm2}^-= -\frac{R_{55}}{R_{54}} \approx 0.574$
+    $$A_{comm2}^-= -\frac{R_{55}}{R_{54}} \approx 0.574$$
 
 - $Q8 \rightarrow OFF$ (*modo no inversor*)
 
